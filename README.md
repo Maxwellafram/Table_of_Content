@@ -17,4 +17,5 @@ https://github.com/Maxwellafram/SQL_Walmart_DataAnalysis_Project |
 |4|Tableau_Walmart_Sales_Insight_Project|This dashboard provides a comprehensive analysis of Walmart’s sales performance across different branches and product lines.|
 https://github.com/Maxwellafram/Tableau_Walmart_Sales_Insight_Project|
 |||
-|5|Sales-Customer-Dashboard|This project involves building two key dashboards in Tableau, each designed to provide critical insights into sales performance and customer behavior.|https://github.com/Maxwellafram/Sales-Customer-Dashboard |
+|5|Sales-Customer-Dashboard|This project involves building two key dashboards in Tableau, each designed to provide critical insights into sales performance and customer behavior.|
+https://github.com/Maxwellafram/Sales-Customer-Dashboard |
